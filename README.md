@@ -12,6 +12,7 @@ Acelerador de carreira - Sicredi - Instituto Caldeira
   <img align="center" alt="Rafa-Js" height="50" width="60" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Rafa-Js" height="50" width="60" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   <img align="center" alt="Rafa-Js" height="50" width="80" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+  <img align="center" alt="Rafa-Js" height="50" width="80" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img align="center" alt="Rafa-Js" height="50" width="80" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
  </div>
 
